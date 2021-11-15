@@ -1,6 +1,6 @@
-# Quasar App (rebuild-chat)
+# Firebase_quasar_chat
 
-A Quasar Framework app
+Firebaseを利用したチャットアプリ開発の練習
 
 ## Install the dependencies
 ```bash
